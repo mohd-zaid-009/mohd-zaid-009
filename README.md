@@ -64,15 +64,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohd-zaid-009&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-zaid-009&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -87,16 +78,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mohd-zaid-009/mohd-zaid-009/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohd-zaid-009&theme=algolia&no-frame=true&margin-w=15"/>
-
 </p>
 
 ---
