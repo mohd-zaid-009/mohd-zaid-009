@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;SQL+%7C+Excel+%7C+Power+BI+%7C+Python;Always+Learning+New+Things" />
 </p>
 
-<h3 align="center">📊 Aspiring Data Analyst | BCA Student | Microsoft Learn Learner</h3>
+<h3 align="center">📊 Aspiring Data Analyst | BCA Student</h3>
 
 <p align="center">
 
