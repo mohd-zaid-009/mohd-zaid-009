@@ -136,13 +136,6 @@
 </p>
 
 ---
-## 📫 Contact
-
-📧 Email: princezaid07860@gmail.com
-
-💼 LinkedIn: www.linkedin.com/in/mohd-zaid-718724373/
-
-🌐 Portfolio: https://mohd-zaid-portfolio-gules.vercel.app/
 
 ## 👀 Profile Views
 
