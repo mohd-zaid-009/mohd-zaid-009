@@ -1,16 +1,131 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohd Zaid</h1>
 
-<!--
-**mohd-zaid-009/mohd-zaid-009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">📊 Aspiring Data Analyst | BCA Student | Microsoft Learn Learner</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Data+Analyst;SQL+%7C+Excel+%7C+Power+BI+%7C+Python;Always+Learning+Something+New🚀" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
+- 📊 Aspiring **Data Analyst**
+- 🌱 Currently learning **SQL, Excel, Power BI & Python**
+- 🎯 Preparing for **Microsoft PL-300 Certification**
+- 💼 Looking for **Data Analyst Internship**
+- ❤️ Passionate about solving business problems using data
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+
+</p>
+
+<p align="center">
+
+📊 Excel &nbsp;&nbsp;|&nbsp;&nbsp;
+📈 Power BI &nbsp;&nbsp;|&nbsp;&nbsp;
+🗄 SQL &nbsp;&nbsp;|&nbsp;&nbsp;
+🐍 Python
+
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohd-zaid-009&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-zaid-009&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=mohd-zaid-009&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohd-zaid-009&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+## 📂 Featured Projects
+
+📊 SQL Data Analysis
+
+📈 Power BI Dashboards
+
+🧹 Excel Data Cleaning
+
+🐍 Python Data Analysis
+
+🌐 Personal Portfolio Website
+
+---
+
+## 📜 Certifications
+
+✅ Microsoft AI Skills Fest
+
+✅ Microsoft Learn
+
+🎯 Microsoft PL-300 (In Progress)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/mohd-zaid-009">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohd-zaid-718724373/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://mohd-zaid-portfolio-gules.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mohd-zaid-009&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</p>
