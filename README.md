@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="./github.png" width="100%" alt="Mohd Zaid Banner">
-</p>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohd-zaid-009&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 <h1 align="center">Hi 👋, I'm Mohd Zaid</h1>
@@ -70,11 +67,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohd-zaid-009&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-zaid-009&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohd-zaid-009&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-zaid-009&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
@@ -146,17 +140,11 @@
 
 ---
 
-## 👀 Profile Views
-
-
-
----
-
-
 ## 💡 Quote
 
 > **"Turning raw data into meaningful insights, one project at a time."** 📊
 
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
+<h3 align="center">
+Thanks for visiting! ⭐<br>
+If you like my work, consider giving a ⭐ to my repositories.
+</h3>
