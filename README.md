@@ -70,7 +70,7 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohd-zaid-009&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohd-zaid-009&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-zaid-009&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -92,7 +92,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohd-zaid-009&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mohd-zaid-009&theme=algolia&no-frame=true&margin-w=15"/>
 
 </p>
 
