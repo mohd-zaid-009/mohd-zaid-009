@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github.png" alt="Mohd Zaid Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Mohd Zaid</h1>
 
 <h3 align="center">📊 Aspiring Data Analyst | BCA Student | Microsoft Learn Learner</h3>
