@@ -1,6 +1,9 @@
 <p align="center">
   <img src="./github.png" width="100%" alt="Mohd Zaid Banner">
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohd-zaid-009&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 <h1 align="center">Hi 👋, I'm Mohd Zaid</h1>
 
 <p align="center">
@@ -25,6 +28,7 @@
 
 ## 🚀 About Me
 
+
 - 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
 - 📊 Aspiring **Data Analyst**
 - 🌱 Currently learning **SQL, Excel, Power BI & Python**
@@ -34,20 +38,29 @@
 
 ---
 
+## 📚 Currently Learning
+
+- 📊 Advanced SQL (Joins, CTEs, Window Functions)
+- 📈 Power BI Dashboard Development
+- 🐍 Python for Data Analysis (Pandas & NumPy)
+- 📑 Excel Data Cleaning & Visualization
+
+  
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,linux" />
 </p>
 
 <p align="center">
 
-📊 Excel &nbsp;&nbsp;|&nbsp;&nbsp;
-📈 Power BI &nbsp;&nbsp;|&nbsp;&nbsp;
-🗄 SQL &nbsp;&nbsp;|&nbsp;&nbsp;
-🐍 Python
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </p>
 
@@ -87,25 +100,20 @@
 
 ## 📂 Featured Projects
 
-📊 SQL Data Analysis
+🚧 Coming Soon...
 
-📈 Power BI Dashboards
-
-🧹 Excel Data Cleaning
-
-🐍 Python Data Analysis
-
-🌐 Personal Portfolio Website
+- 📊 SQL Sales Analysis
+- 📈 Power BI Sales Dashboard
+- 🧹 Excel Data Cleaning Project
+- 🐍 Python Data Analysis
+- 🌐 Personal Portfolio Website
 
 ---
 
 ## 📜 Certifications
 
-✅ Microsoft AI Skills Fest
-
-✅ Microsoft Learn
-
-🎯 Microsoft PL-300 (In Progress)
+- 🏅 Microsoft AI Skills Fest
+- 🏅 Google Cybersecurity Professional Certificate
 
 ---
 
@@ -128,19 +136,25 @@
 </p>
 
 ---
+## 📫 Contact
+
+📧 Email: princezaid07860@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/mohd-zaid-718724373/
+
+🌐 Portfolio: https://mohd-zaid-portfolio-gules.vercel.app/
 
 ## 👀 Profile Views
 
-<p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=mohd-zaid-009&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
 
 ---
 
+
+## 💡 Quote
+
+> **"Turning raw data into meaningful insights, one project at a time."** 📊
+
 <p align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
+⭐ Thanks for visiting my profile! ⭐
 </p>
