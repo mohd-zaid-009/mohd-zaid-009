@@ -122,11 +122,9 @@
 
 ## 💡 Quote
 
-<p align="center">
-  <b><i>
-    💡 "Learning today. Building insights for tomorrow." 📊🚀
-  </i></b>
-</p>
+<h2 align="center">
+💡 "Learning today. Building insights for tomorrow." 📊🚀
+</h2>
 
 <h3 align="center">
 Thanks for visiting! ⭐<br>
