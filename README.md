@@ -122,7 +122,7 @@
 
 ## 💡 Quote
 
-> **"Turning raw data into meaningful insights, one project at a time."** 📊
+> **"Learning today. Building insights for tomorrow."** 📊🚀
 
 <h3 align="center">
 Thanks for visiting! ⭐<br>
