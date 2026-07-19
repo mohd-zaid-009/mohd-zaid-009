@@ -1,13 +1,24 @@
 <p align="center">
-  <img src="./github.png" alt="Mohd Zaid Banner" width="100%">
+  <img src="./github.png" width="100%" alt="Mohd Zaid Banner">
 </p>
-
 <h1 align="center">Hi 👋, I'm Mohd Zaid</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;SQL+%7C+Excel+%7C+Power+BI+%7C+Python;Microsoft+PL-300+Learner;Always+Learning+New+Things🚀" />
+</p>
 
 <h3 align="center">📊 Aspiring Data Analyst | BCA Student | Microsoft Learn Learner</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Data+Analyst;SQL+%7C+Excel+%7C+Power+BI+%7C+Python;Always+Learning+Something+New🚀" />
+
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
 </p>
 
 ---
