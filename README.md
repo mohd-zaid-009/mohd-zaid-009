@@ -45,6 +45,7 @@
 - 🐍 Python for Data Analysis (Pandas & NumPy)
 - 📑 Excel Data Cleaning & Visualization
 
+---
   
 ## 🛠️ Tech Stack
 
@@ -84,6 +85,14 @@
 
 <img src="https://streak-stats.demolab.com?user=mohd-zaid-009&theme=tokyonight&hide_border=true"/>
 
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohd-zaid-009/mohd-zaid-009/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
