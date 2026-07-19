@@ -90,7 +90,6 @@
 - 📈 Power BI Sales Dashboard
 - 🧹 Excel Data Cleaning Project
 - 🐍 Python Data Analysis
-- 🌐 Personal Portfolio Website
 
 ---
 
