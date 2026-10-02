@@ -29,7 +29,6 @@
 - 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
 - 📊 Aspiring **Data Analyst**
 - 🌱 Currently learning **SQL, Excel, Power BI & Python**
-- 🎯 Preparing for **Microsoft PL-300 Certification**
 - 💼 Looking for **Data Analyst Internship**
 - ❤️ Passionate about solving business problems using data
 
@@ -39,7 +38,6 @@
 
 - 📊 Advanced SQL (Joins, CTEs, Window Functions)
 - 📈 Power BI Dashboard Development
-- 🐍 Python for Data Analysis (Pandas & NumPy)
 - 📑 Excel Data Cleaning & Visualization
 
 ---
@@ -84,12 +82,9 @@
 
 ## 📂 Featured Projects
 
-🚧 Coming Soon...
-
 - 📊 SQL Sales Analysis
 - 📈 Power BI Sales Dashboard
 - 🧹 Excel Data Cleaning Project
-- 🐍 Python Data Analysis
 
 ---
 
