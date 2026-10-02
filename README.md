@@ -28,7 +28,7 @@
 
 - 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
 - 📊 Aspiring **Data Analyst**
-- 🌱 Currently learning **SQL, Excel, Power BI & Python**
+- 🌱 Currently learning **SQL, Excel & Power BI**
 - 💼 Looking for **Data Analyst Internship**
 - ❤️ Passionate about solving business problems using data
 
