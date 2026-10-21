@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+business+insights;Excel+Dashboards+%7C+Power+Pivot+%7C+DAX;Learning+SQL+%26+Power+BI;Open+to+Data+Analyst+Internships" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+business+insights;Excel+Dashboards+%7C+Power+Pivot+%7C+DAX;Excel+%7C+SQL+%7C+Power+BI;Open+to+Data+Analyst+Internships" alt="typing" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
   BCA student and aspiring Data Analyst.<br/>
   I build interactive Excel dashboards that turn raw sales and inventory data<br/>
   into clear, decision-ready insights.<br/><br/>
-  Currently strengthening my <b>SQL</b> and <b>Power BI</b> skills<br/>
+  Skilled in <b>Excel</b>, <b>SQL</b> and <b>Power BI</b>,<br/>
   and looking for a <b>Data Analyst internship</b>.
 </p>
 
@@ -79,15 +79,6 @@
 
 <p align="center">
   <a href="https://github.com/mohd-zaid-009?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github" /></a>
-</p>
-
-<br/>
-
-<h2 align="center">Currently Learning</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Advanced%20SQL-Joins%20%7C%20CTEs%20%7C%20Window%20Functions-025E8C?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboard%20Development-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 <br/>
